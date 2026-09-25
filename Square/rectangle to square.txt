@@ -1,0 +1,17 @@
+Convert the provided rectangle frame design into a square frame design.
+
+IMPORTANT:
+
+* Use the provided design as the exact visual reference.
+* Change ONLY the frame from a rectangular ratio to a perfectly square ratio.
+* Keep the frame centered and naturally proportioned within the existing design.
+* Do NOT change the overall design, composition, layout, spacing, typography, text, background, colors, decorative elements, shadows, lighting, or visual hierarchy.
+* Keep every existing color exactly the same as the original.
+* Keep all elements exactly where they are.
+* Do NOT add, remove, redesign, or replace any element.
+* Do NOT change the style or appearance of the frame.
+* Only adjust the frame's proportions so that its width and height have a 1:1 square ratio.
+* Preserve the frame's original border, thickness, texture, finish, details, and realistic appearance.
+* Make sure the square frame looks naturally integrated into the existing design without affecting any surrounding elements.
+* Keep the EXACT SAME canvas size and aspect ratio as the original design.
+* Final result must look identical to the original design, with the ONLY visible change being the frame changed from rectangle to square.
